@@ -1,7 +1,7 @@
-#Springboot Caching
+# Springboot Caching
 A simple app to demonstrate the concept of caching in Spring Boot
 
-##Notes
+## Notes
 CacheConfig is not needed, but its there for demonstration purposes to show how we can customize our cache setup.
 
 By default ConcurrentMapCacheManager is used, which uses a simple Map to cache the values.
